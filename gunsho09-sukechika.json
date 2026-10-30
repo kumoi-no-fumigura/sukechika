@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sukechika",
  "yomi": "さいしゅすけちかきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（11世紀）",
+  "author": "大中臣輔親（954〜1038）",
+  "desc": "伊勢神宮の祭主、大中臣輔親の家集。家集の意義を説く仮名序を置き、題詠や歌会の歌、贈答を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -2554,6 +2559,6 @@
   "poems": 222,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
